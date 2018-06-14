@@ -9,7 +9,7 @@
 
 I. In strutione
 
-DMLBS: strution, strutium v. strutheum < struthio DMLBS: **ostrich**
+* DMLBS: strution, strutium v. strutheum < struthio DMLBS: **ostrich**
 
 II, In Grue uel anate, perdice, tuture, palumbo, columbo r fiurtdid auibus.
 
@@ -43,7 +43,7 @@ VIII. In pullo.
 
 #### In STRVTIONE ELIXO: (210) {#in-stvutione-elixo}
 
-elixo: L&S: to boil thoroughly
+* elixo: L&S: to boil thoroughly
 
 **Piper, mentam,cuminum assum, apii semen, dactilos uel carotetas, mel,
 acetum, passum, liquamen, et oleum modice,et in caccabo facies ut
