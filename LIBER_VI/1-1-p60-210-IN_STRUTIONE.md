@@ -36,11 +36,11 @@ VIII. In pullo.
 
     [2] elixo: L&S: to boil thoroughly
 
-**Piper, mentam, cuminum assum[3], apii[4] semen, dactilos uel
+Piper, mentam, cuminum assum[3], apii[4] semen, dactilos uel
 carotetas[5], mel, acetum, passum[6], liquamen, et oleum modice, pet
 in caccabo facies ut ulliat, amulo ogligas et sic partes strutinis in
 lance perfundis e desuper piper aspargis. Si autem in condituram
-coquere uolueris, alicam addis.**
+coquere uolueris, alicam addis.
 
 こしょう、ミント、ローストしたクミン、セロリの種子、デーツまたは類似の
 もの、はちみつ、ヴィネガー、天日濃縮ワイン、ガルム、
