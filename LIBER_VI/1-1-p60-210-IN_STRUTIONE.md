@@ -2,10 +2,16 @@
 % APICIUS
 
 
-※ これは後で翻訳をするために利用するメモです。「勉強のしかた」として
-は参考にしないでください。とりわけ語義や語形変化についてはノートをとら
-ずその場で覚えるようにしてください。中級以上の語学習得において経験上、
-ノートをまとめることに夢中になる癖がある学習者は伸びない傾向にあります。
+
+
+
+
+
+
+※ これは翻訳用のメモです。「勉強のしかた」としては参考にしないでくだ
+さい。とりわけ語義や語形変化についてはノートをとらずその場で覚えるよう
+にしてください。中級以上の語学習得において経験上、ノートをまとめること
+に夢中になる癖がある学習者は伸びない傾向にあります。
 
 
 # LIBER VI {#liber-vi}
@@ -24,6 +30,7 @@ VII. In ansere.
 VIII. In pullo.
 
     [1] DMLBS: strution, strutium v. strutheum < struthio DMLBS: ostrich
+
 
 
 ### In STRUTIONE
@@ -48,7 +55,7 @@ coquere uolueris, alicam addis.
     [3] assum:< (Gaffiot201612) 1 assum, v. adsum.  2 assum, (16) ī,
         n. (assus), rôti : Cic. Fam. 9, 20, 1 ; Hor. S. 2, 2, 73 ;
         Cels. Med. 1, 3 || n. pl. assa Cic. Q. 3, 1, 2, étuves.
-  
+
     [4] apii < apium (LewisShort) ăpĭum, ii, n. apis, I. parsley,
         esp. liked by bees; an umbelliferous plant of several species
         (mountain-parsley, celery, etc.), Plin. 19, 8, 37, § 123 sq. The
@@ -69,4 +76,4 @@ coquere uolueris, alicam addis.
         Mart. 11, 31; Stat. S. 1, 6, 20), f., = καρυῶτις,
 
     [6] passum < Gaffiot2016 passum, (15) ī, n. (pando), vin de raisins
-        séchés au soleil : Virg. G. 2, 93 ; Col. Rust. 12, 39.  
+        séchés au soleil : Virg. G. 2, 93 ; Col. Rust. 12, 39.
