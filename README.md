@@ -1,2 +1,3 @@
 # APICIUS_DE_RE_COQVINARIA
-アピキウスについての研究
+
+アピキウスを読むためのメモ
